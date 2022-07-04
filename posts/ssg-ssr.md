@@ -1,5 +1,5 @@
 ---
-title: "When to Use Static Generation v.s. Server-side Rendering"
+title: "プルリク＆マージで本当にプレビュー用URLの発行と本番環境にデプロイされるのか確認するよ！"
 date: "2020-01-02"
 ---
 
