@@ -30,7 +30,7 @@ export default function Home({ allPostsData }: Props) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>どうも、おはこんばんにちは！</p>
+        <p>どうも、おはこんばんにちは！1回目のテストです！</p>
         <Link href="./posts/first-post">
           <a>Let's First Post!</a>
         </Link>
